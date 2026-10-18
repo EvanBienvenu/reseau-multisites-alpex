@@ -101,6 +101,10 @@ router ospf 1
 - Configurer et comparer deux protocoles de routage dynamique
 - Diagnostiquer un réseau avec `show`, `ping` et `traceroute`
 
+## Compétences mobilisées
+
+[Routage](https://github.com/EvanBienvenu/competences-reseau/blob/main/02-routage.md) · [Bases de Cisco IOS](https://github.com/EvanBienvenu/competences-reseau/blob/main/01-bases-cisco-ios.md)
+
 ## 📖 Termes techniques
 
 | Terme | Explication |
